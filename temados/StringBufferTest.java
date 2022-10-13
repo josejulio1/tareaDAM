@@ -70,6 +70,6 @@ public class StringBufferTest {
          * objeto de la clase StringBuffer
          */
         stringBuffer.setLength(100);
-        System.out.println(stringBuffer.capacity());
+        System.out.println(stringBuffer.capacity()); // 100
     }
 }
